@@ -2,10 +2,9 @@
 <br>
 Deep learning is a machine learning technique that teaches computers to do what comes naturally to humans.It's a key technology behind driverless cars, enabling them to recognize a stop sign, or to distinguish a pedestrian from a lamppost. 
 <br> 
-
-.1. Deep learning requires large amounts of labeled data.
+1. Deep learning requires large amounts of labeled data.
 <br>
-.2.Deep learning requires substantial computing power.
+2.Deep learning requires substantial computing power.
 <br> <br> 
 
 ### What's the difference between deep learning and Machine Learning?
